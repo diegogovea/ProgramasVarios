@@ -2,5 +2,8 @@
 
 1. Python
 2. C++
-3. Java
-4. JavaScript
+   ```
+   g++ -o palindromo palindromo.cpp; if ($?) { ./palindromo }
+   ```
+4. Java
+5. JavaScript
