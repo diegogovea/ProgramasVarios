@@ -6,6 +6,6 @@ int main() {
     for (int i = 0; i < 10; i++) {
         cout << "Contador: " << i << endl;
     }
-    // ayudaaaa
+    // ayudaaaa 
     return 0;
 }
